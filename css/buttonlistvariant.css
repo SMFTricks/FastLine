@@ -1,0 +1,222 @@
+/***** Buttonlist - Custom icons *****/
+
+/* Mark */
+.buttonlist ul li a.button_strip_markread > span
+{
+	background-image: url(../images/md/buttonlist/tick.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_markread.active > span
+{
+	background-image: url(../images/md/buttonlist/active/tick.png);
+}
+
+/* Selected */
+.buttonlist ul li a.button_strip_markselectread > span
+{
+	background-image: url(../images/md/buttonlist/target.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_markselectread.active > span
+{
+	background-image: url(../images/md/buttonlist/active/target.png);
+}
+
+/* All */
+.buttonlist ul li a.button_strip_readall > span, .buttonlist ul li a.button_strip_view_all_members > span
+{
+	background-image: url(../images/md/buttonlist/all.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_readall.active > span, .buttonlist ul li a.button_strip_view_all_members.active > span
+{
+	background-image: url(../images/md/buttonlist/active/all.png);
+}
+
+/* New or Add */
+.buttonlist ul li a.button_strip_new_topic > span
+{
+	background-image: url(../images/md/buttonlist/plus.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_new_topic.active span
+{
+	background-image: url(../images/md/buttonlist/active/plus.png);
+}
+
+/* Notify */
+.buttonlist ul li a.button_strip_notify > span
+{
+	background-image: url(../images/md/buttonlist/noty.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_notify.active span
+{
+	background-image: url(../images/md/buttonlist/active/noty.png);
+}
+
+/* Poll or Stats */
+.buttonlist ul li a.button_strip_post_poll > span, .buttonlist ul li a.button_strip_add_poll > span
+{
+	background-image: url(../images/md/buttonlist/poll.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_post_poll.active span, .buttonlist ul li a.button_strip_add_poll.active > span
+{
+	background-image: url(../images/md/buttonlist/active/poll.png);
+}
+
+/* Event or Calendar or Date */
+.buttonlist ul li a.button_strip_post_event > span, .buttonlist ul li a.button_strip_calendar > span
+{
+	background-image: url(../images/md/buttonlist/calendar.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_post_event.active span, .buttonlist ul li a.button_strip_calendar.active > span
+{
+	background-image: url(../images/md/buttonlist/active/calendar.png);
+}
+
+/* Move */
+.buttonlist ul li a.button_strip_move > span
+{
+	background-image: url(../images/md/buttonlist/move.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_move.active span
+{
+	background-image: url(../images/md/buttonlist/active/move.png);
+}
+
+/* Remove or Delete */
+.buttonlist ul li a.button_strip_remove_poll > span, .buttonlist ul li a.button_strip_remove_poll > span
+{
+	background-image: url(../images/md/buttonlist/delete.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_remove_poll.active span, .buttonlist ul li a.button_strip_remove_poll.active > span
+{
+	background-image: url(../images/md/buttonlist/active/delete.png);
+}
+
+/* Send or Email */
+.buttonlist ul li a.button_strip_send > span
+{
+	background-image: url(../images/md/buttonlist/send.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_send.active span
+{
+	background-image: url(../images/md/buttonlist/active/send.png);
+}
+
+/* Unread */
+.buttonlist ul li a.button_strip_mark_unread > span
+{
+	background-image: url(../images/md/buttonlist/unread.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_mark_unread.active span
+{
+	background-image: url(../images/md/buttonlist/active/unread.png);
+}
+
+/* Print */
+.buttonlist ul li a.button_strip_print > span
+{
+	background-image: url(../images/md/buttonlist/print.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_print.active span
+{
+	background-image: url(../images/md/buttonlist/active/print.png);
+}
+
+/* Lock */
+.buttonlist ul li a.button_strip_lock > span
+{
+	background-image: url(../images/md/buttonlist/lock.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_lock.active span
+{
+	background-image: url(../images/md/buttonlist/active/lock.png);
+}
+
+/* Sticky */
+.buttonlist ul li a.button_strip_sticky > span
+{
+	background-image: url(../images/md/buttonlist/sticky.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_sticky.active span
+{
+	background-image: url(../images/md/buttonlist/active/sticky.png);
+}
+
+/* Merge */
+.buttonlist ul li a.button_strip_merge > span
+{
+	background-image: url(../images/md/buttonlist/merge.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_merge.active span
+{
+	background-image: url(../images/md/buttonlist/active/merge.png);
+}
+
+/* Reply */
+.buttonlist ul li a.button_strip_reply > span, .buttonlist ul li a.button_strip_edit > span
+{
+	background-image: url(../images/md/buttonlist/reply.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_reply.active span, .buttonlist ul li a.button_strip_edit.active > span
+{
+	background-image: url(../images/md/buttonlist/active/reply.png);
+}
+
+/* Search */
+.buttonlist ul li a.button_strip_mlist_search > span
+{
+	background-image: url(../images/md/buttonlist/search.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 15px;
+}
+.buttonlist ul li a.button_strip_mlist_search.active span
+{
+	background-image: url(../images/md/buttonlist/active/search.png);
+}
